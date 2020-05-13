@@ -6,7 +6,7 @@ package ristretto255
 
 import (
 	"encoding/base64"
-	"github.com/gtank/ristretto255/internal/scalar"
+	"github.com/nondejus/ristretto255/internal/scalar"
 )
 
 // A Scalar is an element of the ristretto255 scalar field, as specified in
