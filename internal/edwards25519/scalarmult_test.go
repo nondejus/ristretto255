@@ -8,8 +8,8 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/gtank/ristretto255/internal/radix51"
-	"github.com/gtank/ristretto255/internal/scalar"
+	"github.com/nondejus/ristretto255/internal/radix51"
+	"github.com/nondejus/ristretto255/internal/scalar"
 )
 
 // quickCheckConfig will make each quickcheck test run (2^6 * -quickchecks)
