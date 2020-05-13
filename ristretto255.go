@@ -17,9 +17,9 @@ import (
 	"encoding/base64"
 	"errors"
 
-	"github.com/gtank/ristretto255/internal/edwards25519"
-	"github.com/gtank/ristretto255/internal/radix51"
-	"github.com/gtank/ristretto255/internal/scalar"
+	"github.com/nondejus/ristretto255/internal/edwards25519"
+	"github.com/nondejus/ristretto255/internal/radix51"
+	"github.com/nondejus/ristretto255/internal/scalar"
 )
 
 // Constants from draft-hdevalence-cfrg-ristretto-01, Section 3.1.
