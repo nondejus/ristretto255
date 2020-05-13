@@ -5,7 +5,7 @@
 package edwards25519
 
 import (
-	"github.com/gtank/ristretto255/internal/scalar"
+	"github.com/nondejus/ristretto255/internal/scalar"
 )
 
 // Set v to x*B, where B is the Ed25519 basepoint, and return v.
