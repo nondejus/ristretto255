@@ -7,7 +7,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/gtank/ristretto255/internal/radix51"
+	"github.com/nondejus/ristretto255/internal/radix51"
 )
 
 func assertFeEqual(value, expect *radix51.FieldElement) {
