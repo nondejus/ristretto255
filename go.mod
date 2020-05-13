@@ -1,3 +1,3 @@
-module github.com/gtank/ristretto255
+module github.com/nondejus/ristretto255
 
 go 1.11
