@@ -7,7 +7,7 @@ package radix51_test
 import (
 	"testing"
 
-	"github.com/gtank/ristretto255/internal/radix51"
+	"github.com/nondejus/ristretto255/internal/radix51"
 )
 
 func BenchmarkAdd(b *testing.B) {
